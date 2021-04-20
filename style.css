@@ -25,3 +25,24 @@
 .right{
     text-align: right;
 }
+.top{
+    text-align: top;
+}
+.bottom{
+    text-align: bottom;
+}
+.margin-auto-5px{
+    margin: 5px;
+}
+.margin-auto-10px{
+    margin: 10px;
+}
+.margin-auto-15px{
+    margin: 15px;
+}
+.margin-auto-20px{
+    margin:20px;
+}
+.row div{
+    margin: 5px;
+}
